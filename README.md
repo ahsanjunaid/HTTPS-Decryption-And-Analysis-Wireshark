@@ -6,7 +6,7 @@ The Resources include a pcap file containing encrypted traffic, SSL encryption k
 ## Setup and Environment
 ### Prerequisites
 - Install Wireshark on your system.
-- Download the exercise zip file from the repository.
+- Download the Material zip file from the repository.
 - Extract the files to your preferred location.
 
 ### Procedure
