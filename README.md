@@ -18,7 +18,7 @@ The Resources include a pcap file containing encrypted traffic, SSL encryption k
 
 
 ## Repository Structure
-- **/Exercise_Files:** Contains the pcap file, SSL encryption keys, and other necessary files.
-- **/Documentation:** Detailed documentation, including step-by-step guides and technical explanations.
-- **/Screenshots:** Demonstrations for each step of the analysis process.
+- **Material:** Contains the pcap file, SSL encryption keys, and other necessary files.
+- **Documentation:** Detailed documentation, including step-by-step guides and technical explanations.
+- **Screenshots:** Demonstrations for each step of the analysis process.
 
